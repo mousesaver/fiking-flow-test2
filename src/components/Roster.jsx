@@ -1,7 +1,7 @@
 export default function Roster() {
-  return (
-    <>
-      <h2>I am a Roster!</h2>
-    </>
-  )
-}
+    return (
+      <>
+        <h2>I am a Roster!</h2>
+      </>
+    )
+  }
